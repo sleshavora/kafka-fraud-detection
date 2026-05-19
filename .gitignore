@@ -1,0 +1,25 @@
+# Dataset (large file, Kaggle ToS — download separately)
+data/creditcard.csv
+data/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Secrets — never commit real credentials
+.env
+.env.*
+
+# Faust internals
+.faust/
+
+# OS
+.DS_Store
+Thumbs.db
