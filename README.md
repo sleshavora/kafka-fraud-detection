@@ -39,9 +39,9 @@ Download `creditcard.csv` from Kaggle and place it in the `data/` folder.
 | Metric | Value |
 |--------|-------|
 | **Algorithm** | Random Forest (100 trees, max_depth=12, class_weight=balanced) |
-| **Accuracy** | ~99.95% |
-| **F1 Score (Fraud class)** | ~0.87 |
-| **ROC-AUC** | ~0.97 |
+| **Accuracy** | 99.94% |
+| **F1 Score (Fraud class)** | 0.8187 |
+| **ROC-AUC** | 0.9753 |
 
 > Class imbalance is handled via `class_weight="balanced"` in scikit-learn.  
 > Model artefacts are saved to `model/fraud_model.joblib` and `model/scaler.joblib`.
