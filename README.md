@@ -184,9 +184,8 @@ A Faust *table* tracks running fraud/legit counts as stateful in-memory state (e
 
 ## Video Demo
 
-📹 **[Watch the demo – YouTube (unlisted)](https://youtu.be/REPLACE_WITH_YOUR_LINK)**
+📹 **(https://drive.google.com/file/d/10HxEmoI4ui6gJsA-45Vp0DpI4pjMa81v/view?usp=sharing)*
 
-The video shows all three terminals running simultaneously for ~90 seconds with live predictions printing in real time.
 
 ---
 
