@@ -182,9 +182,9 @@ A Faust *table* tracks running fraud/legit counts as stateful in-memory state (e
 
 ---
 
-## Video Demo
+## Video
 
-📹 **(https://drive.google.com/file/d/10HxEmoI4ui6gJsA-45Vp0DpI4pjMa81v/view?usp=sharing)*
+ https://drive.google.com/file/d/10HxEmoI4ui6gJsA-45Vp0DpI4pjMa81v/view?usp=sharing
 
 
 ---
